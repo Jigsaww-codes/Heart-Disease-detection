@@ -1,4 +1,4 @@
-# PROJECT TITLWE: Heart-Disease-detection
+# PROJECT TITLE: Heart-Disease-detection
 
 ## Overview of the Project:
 
