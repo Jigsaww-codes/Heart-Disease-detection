@@ -55,13 +55,14 @@ conda activate heart_project
 Most come pre-installed in Anaconda, but you can install manually if needed:
                                                 pip install numpy pandas matplotlib seaborn scikit-learn
 4. Launch Jupyter Notebook
-jupyter notebook
-5. Open Your Project Notebook
-Place heart_disease_data.csv in the same folder as your notebook.
+          jupyter notebook
 
-Run the cell:
-   df = pd.read_csv('heart_disease_data.csv')
-6. Execute the Notebook Cells
+6. Open Your Project Notebook
+      Place heart_disease_data.csv in the same folder as your notebook.
+      Run the cell:
+          df = pd.read_csv('heart_disease_data.csv')
+   
+7. Execute the Notebook Cells
 Run each cell in order:
 Importing libraries
 Loading data
